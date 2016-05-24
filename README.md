@@ -8,7 +8,7 @@ This is built on Laravel Framework 5.1. This was built for demonstrate purpose.
 
 Clone the repository-
 ```
-git clone https://github.com/milon521/laravel-todo.git
+git clone https://github.com/csucla2015/phptekdemo.git
 ```
 
 Then cd into the folder with this command-
